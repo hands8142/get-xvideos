@@ -1,0 +1,25 @@
+{
+  "name": "get-xvideos",
+  "version": "1.0.0",
+  "description": "Get information from xvideos.com",
+  "main": "src/xvideos.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hands8142/get-xvideos.git"
+  },
+  "keywords": [
+    "xvideos",
+    "search",
+    "porn",
+    "web",
+    "cheerio"
+  ],
+  "author": "Handongsu <hands8142@kakao.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5"
+  }
+}
