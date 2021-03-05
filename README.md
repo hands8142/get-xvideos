@@ -123,15 +123,7 @@ null { title: 'Stranded busty sweetie decides to have sex with a stranger in pub
   flv: 'http://porn.im.cbce7ca3.3823160.x.xvideos.com/videos/flv/f/e/6/xvideos.com_fe6e41a62c4162b6b9ff750620acf599.flv?e=1366800046&ri=1024&rs=85&h=2cf1096659393b4c153b7cdfe93a8889' }
 ```
 
-License
--------
-
-3-clause BSD. A copy is included with the source.
-
 Contact
 -------
 
-* GitHub ([deoxxa](http://github.com/deoxxa))
-* Twitter ([@deoxxa](http://twitter.com/deoxxa))
-* ADN ([@deoxxa](https://alpha.app.net/deoxxa))
-* Email ([deoxxa@fknsrs.biz](mailto:deoxxa@fknsrs.biz))
+* GitHub ([deoxxa](http://github.com/deoxxa/xvideos))
